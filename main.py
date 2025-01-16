@@ -16,6 +16,15 @@ NEWS_ENDPOINT = "https://newsapi.org/v2/everything?"
 ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
 # When stock price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
 
+#TODO 1. - Get yesterday's closing stock price. Hint: You can perform list comprehensions on Python dictionaries. e.g. [new_value for (key, value) in dictionary.items()]
+# Find your Account SID and Auth Token at twilio.com/console
+# and set the environment variables. See http://twil.io/secure
+account_sid = "AC8c2513d7bf6da54ede23693275344658"
+auth_token = "10fafd5ea276e691fa3c0154bcfd27e7"
+
+# Setting up APIs
+stock_api_key = "0WHYEF2HDYMWM313"
+news_api_key = "1b3b397afaa34a7b8f1589a45af74273"
 
 
 
@@ -33,7 +42,7 @@ days_to_subtract = 3
 last_7_days = current_date - timedelta(days=days_to_subtract)
 
 news_params = {
-    
+    'apiKey': "1b3b397afaa34a7b8f1589a45af74273",
     'qInTitle': "tesla",
     'from': last_7_days,
     'to': current_date,
@@ -93,7 +102,6 @@ print("\n".join(top_3_articles))
 #     print(f"No action required, percentage change: {percent_diff}")
 #     ## STEP 2: https://newsapi.org/ 
 
-#TODO 7. - Use Python slice operator to create a list that contains the first 3 articles. Hint: https://stackoverflow.com/questions/509211/understanding-slice-notation 
 
 
 for news in top_3_articles:
@@ -115,16 +123,4 @@ for news in top_3_articles:
             to="whatsapp:+16473939783")
 
         print(message.status)
-
-
-#Optional TODO: Format the message like this: 
-"""
-TSLA: 🔺2%
-Headline: Were Hedge Funds Right About Piling Into Tesla Inc. (TSLA)?. 
-Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus market crash.
-or
-"TSLA: 🔻5%
-Headline: Were Hedge Funds Right About Piling Into Tesla Inc. (TSLA)?. 
-Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus market crash.
-"""
 
