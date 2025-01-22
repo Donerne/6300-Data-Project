@@ -5,7 +5,6 @@ import numpy as np
 from datetime import date, timedelta
 
 
-
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 
@@ -25,8 +24,6 @@ auth_token = "10fafd5ea276e691fa3c0154bcfd27e7"
 # Setting up APIs
 stock_api_key = "0WHYEF2HDYMWM313"
 news_api_key = "1b3b397afaa34a7b8f1589a45af74273"
-
-
 
 
 stock_params = {
