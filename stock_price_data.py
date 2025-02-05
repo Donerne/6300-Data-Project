@@ -8,7 +8,8 @@ stocks = [
     {"symbol": "AAPL", "ipo_date": "1980-12-12"},
     {"symbol": "GOOG", "ipo_date": "2004-08-19"},
     {"symbol": "MSFT", "ipo_date": "1986-03-13"},
-    {"symbol": "META", "ipo_date": "2012-05-18"}
+    {"symbol": "META", "ipo_date": "2012-05-18"},
+    {"symbol": "NVDA", "ipo_date": "1999-01-22"}
 ]
 
 # Define the API token (replace with your actual token)
