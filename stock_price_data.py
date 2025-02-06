@@ -12,6 +12,7 @@ stocks = [
     {"symbol": "NVDA", "ipo_date": "1999-01-22"}
 ]
 
+
 # Define the API token (replace with your actual token)
 token = "4ccd7cc6c674d64e9055f9ce81f362c4543707c0"
 
