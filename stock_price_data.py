@@ -24,7 +24,7 @@ for stock in stocks:
 
     if response.status_code == 200:
         data = response.json()
-        csv_file = f"{stock['symbol']}_stock_prices.csv"
+        csv_file = f"Stock_Price_Data/{stock['symbol']}_stock_prices.csv"
 
         if data:
             with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
