@@ -5,7 +5,6 @@ date,stock_news_sentiment,press_release_sentiment
 2011-04-21,weakly_positive,weakly_positive
 2011-05-04,neutral,neutral
 2011-05-16,weakly_positive,weakly_positive
-2011-05-26,weakly_positive,weakly_positive
 2011-06-14,weakly_positive,weakly_positive
 2011-07-06,weakly_positive,weakly_positive
 2011-07-28,weakly_positive,weakly_positive
@@ -59,7 +58,7 @@ date,stock_news_sentiment,press_release_sentiment
 2018-10-08,neutral,neutral
 2018-10-09,weakly_negative,weakly_negative
 2018-10-11,neutral,neutral
-2018-10-12,neutral,neutral
+2018-10-12,weakly_negative,weakly_negative
 2018-10-15,weakly_negative,weakly_negative
 2018-11-02,neutral,neutral
 2018-11-16,weakly_positive,weakly_positive
@@ -178,7 +177,7 @@ date,stock_news_sentiment,press_release_sentiment
 2019-07-05,neutral,
 2019-07-07,weakly_positive,
 2019-07-08,weakly_positive,
-2019-07-09,weakly_positive,
+2019-07-09,neutral,
 2019-07-10,neutral,
 2019-07-11,weakly_positive,
 2019-07-12,weakly_positive,
@@ -222,7 +221,6 @@ date,stock_news_sentiment,press_release_sentiment
 2019-08-22,neutral,
 2019-08-23,weakly_positive,
 2019-08-24,neutral,
-2019-08-25,weakly_positive,
 2019-08-26,neutral,
 2019-08-27,neutral,
 2019-08-28,neutral,weakly_positive
@@ -257,7 +255,7 @@ date,stock_news_sentiment,press_release_sentiment
 2019-10-01,neutral,
 2019-10-02,neutral,
 2019-10-03,weakly_positive,
-2019-10-04,neutral,
+2019-10-04,weakly_negative,
 2019-10-06,neutral,
 2019-10-07,weakly_positive,
 2019-10-08,weakly_positive,
@@ -271,7 +269,7 @@ date,stock_news_sentiment,press_release_sentiment
 2019-10-16,neutral,
 2019-10-17,weakly_positive,
 2019-10-18,neutral,
-2019-10-21,neutral,
+2019-10-21,weakly_positive,
 2019-10-22,weakly_positive,
 2019-10-23,weakly_positive,
 2019-10-24,weakly_positive,
@@ -380,7 +378,7 @@ date,stock_news_sentiment,press_release_sentiment
 2020-02-11,weakly_positive,
 2020-02-12,weakly_positive,
 2020-02-13,weakly_positive,
-2020-02-14,neutral,
+2020-02-14,weakly_positive,
 2020-02-15,weakly_positive,
 2020-02-16,weakly_positive,
 2020-02-17,weakly_positive,
@@ -409,7 +407,7 @@ date,stock_news_sentiment,press_release_sentiment
 2020-03-14,neutral,
 2020-03-15,weakly_positive,
 2020-03-16,weakly_positive,
-2020-03-17,neutral,
+2020-03-17,weakly_negative,
 2020-03-18,weakly_positive,
 2020-03-19,weakly_positive,
 2020-03-20,weakly_negative,
@@ -536,7 +534,7 @@ date,stock_news_sentiment,press_release_sentiment
 2020-08-03,weakly_positive,strongly_positive
 2020-08-04,neutral,
 2020-08-05,neutral,
-2020-08-06,neutral,
+2020-08-06,weakly_positive,
 2020-08-07,neutral,
 2020-08-08,weakly_negative,
 2020-08-09,weakly_negative,
@@ -558,12 +556,12 @@ date,stock_news_sentiment,press_release_sentiment
 2020-08-25,weakly_positive,
 2020-08-26,weakly_positive,
 2020-08-27,weakly_positive,
-2020-08-28,neutral,
+2020-08-28,weakly_negative,
 2020-08-29,neutral,
-2020-08-30,neutral,
+2020-08-30,weakly_positive,
 2020-08-31,neutral,
 2020-09-01,weakly_positive,
-2020-09-02,weakly_positive,
+2020-09-02,neutral,
 2020-09-03,weakly_positive,
 2020-09-04,weakly_positive,
 2020-09-05,weakly_positive,
@@ -576,7 +574,7 @@ date,stock_news_sentiment,press_release_sentiment
 2020-09-12,weakly_positive,
 2020-09-13,weakly_positive,
 2020-09-14,weakly_positive,weakly_negative
-2020-09-15,neutral,
+2020-09-15,weakly_positive,
 2020-09-16,weakly_positive,
 2020-09-17,weakly_negative,
 2020-09-18,weakly_positive,
@@ -719,7 +717,7 @@ date,stock_news_sentiment,press_release_sentiment
 2021-03-06,neutral,
 2021-03-07,weakly_negative,
 2021-03-08,neutral,
-2021-03-09,weakly_negative,
+2021-03-09,weakly_positive,
 2021-03-10,weakly_positive,
 2021-03-11,neutral,
 2021-03-12,neutral,
@@ -796,7 +794,6 @@ date,stock_news_sentiment,press_release_sentiment
 2021-05-28,weakly_positive,
 2021-05-29,weakly_positive,
 2021-05-30,neutral,
-2021-05-31,weakly_negative,
 2021-06-01,weakly_positive,
 2021-06-02,weakly_positive,
 2021-06-03,weakly_positive,
@@ -916,7 +913,7 @@ date,stock_news_sentiment,press_release_sentiment
 2021-10-01,weakly_positive,
 2021-10-02,neutral,
 2021-10-03,weakly_positive,
-2021-10-04,neutral,
+2021-10-04,weakly_positive,
 2021-10-05,weakly_positive,
 2021-10-06,weakly_positive,weakly_positive
 2021-10-07,weakly_positive,
@@ -926,7 +923,7 @@ date,stock_news_sentiment,press_release_sentiment
 2021-10-11,weakly_positive,
 2021-10-12,neutral,
 2021-10-13,weakly_positive,
-2021-10-14,neutral,
+2021-10-14,weakly_positive,
 2021-10-15,weakly_positive,
 2021-10-16,neutral,
 2021-10-17,weakly_positive,
@@ -997,7 +994,7 @@ date,stock_news_sentiment,press_release_sentiment
 2021-12-28,weakly_positive,weakly_positive
 2021-12-29,weakly_positive,
 2021-12-30,weakly_positive,
-2021-12-31,neutral,
+2021-12-31,weakly_negative,
 2022-01-01,neutral,
 2022-01-02,weakly_positive,
 2022-01-03,weakly_positive,
@@ -1049,12 +1046,12 @@ date,stock_news_sentiment,press_release_sentiment
 2022-02-20,neutral,
 2022-02-22,neutral,
 2022-02-23,weakly_positive,
-2022-02-24,neutral,
+2022-02-24,weakly_negative,
 2022-02-25,weakly_positive,
 2022-02-26,weakly_negative,
 2022-02-27,weakly_negative,
 2022-02-28,weakly_negative,
-2022-03-01,neutral,
+2022-03-01,weakly_negative,
 2022-03-02,weakly_positive,
 2022-03-03,weakly_positive,
 2022-03-04,weakly_positive,
@@ -1084,7 +1081,7 @@ date,stock_news_sentiment,press_release_sentiment
 2022-03-29,weakly_positive,
 2022-03-30,weakly_positive,
 2022-03-31,weakly_positive,
-2022-04-01,neutral,
+2022-04-01,weakly_positive,
 2022-04-03,weakly_positive,
 2022-04-04,weakly_positive,
 2022-04-05,weakly_positive,
@@ -1099,7 +1096,6 @@ date,stock_news_sentiment,press_release_sentiment
 2022-04-14,weakly_positive,
 2022-04-16,weakly_positive,
 2022-04-17,weakly_negative,
-2022-04-18,neutral,
 2022-04-19,weakly_positive,
 2022-04-20,weakly_positive,
 2022-04-21,weakly_positive,
@@ -1120,7 +1116,7 @@ date,stock_news_sentiment,press_release_sentiment
 2022-05-06,weakly_positive,
 2022-05-07,weakly_positive,
 2022-05-08,neutral,
-2022-05-09,neutral,weakly_negative
+2022-05-09,weakly_positive,
 2022-05-10,neutral,
 2022-05-11,weakly_positive,
 2022-05-12,weakly_positive,weakly_positive
@@ -1156,7 +1152,7 @@ date,stock_news_sentiment,press_release_sentiment
 2022-06-13,weakly_positive,
 2022-06-14,weakly_positive,
 2022-06-15,weakly_positive,
-2022-06-16,neutral,
+2022-06-16,weakly_positive,
 2022-06-17,weakly_negative,
 2022-06-18,weakly_positive,
 2022-06-19,weakly_positive,
@@ -1178,7 +1174,7 @@ date,stock_news_sentiment,press_release_sentiment
 2022-07-06,weakly_positive,
 2022-07-07,weakly_positive,
 2022-07-08,weakly_negative,
-2022-07-10,neutral,
+2022-07-10,weakly_negative,
 2022-07-11,neutral,
 2022-07-12,neutral,
 2022-07-13,weakly_positive,
@@ -1222,12 +1218,12 @@ date,stock_news_sentiment,press_release_sentiment
 2022-08-21,neutral,
 2022-08-22,weakly_positive,weakly_positive
 2022-08-23,weakly_positive,
-2022-08-24,neutral,strongly_negative
+2022-08-24,weakly_negative,strongly_negative
 2022-08-25,weakly_positive,
 2022-08-26,weakly_negative,
 2022-08-27,neutral,
 2022-08-28,neutral,
-2022-08-29,weakly_positive,
+2022-08-29,neutral,
 2022-08-30,weakly_negative,
 2022-08-31,weakly_positive,
 2022-09-01,weakly_positive,weakly_positive
@@ -1278,7 +1274,7 @@ date,stock_news_sentiment,press_release_sentiment
 2022-10-16,neutral,
 2022-10-17,weakly_positive,
 2022-10-18,weakly_positive,weakly_positive
-2022-10-19,weakly_positive,
+2022-10-19,neutral,
 2022-10-20,neutral,
 2022-10-21,weakly_positive,
 2022-10-22,weakly_negative,
@@ -1299,7 +1295,7 @@ date,stock_news_sentiment,press_release_sentiment
 2022-11-06,weakly_positive,
 2022-11-08,weakly_positive,weakly_positive
 2022-11-09,weakly_positive,
-2022-11-10,weakly_positive,
+2022-11-10,neutral,
 2022-11-11,neutral,
 2022-11-13,weakly_positive,
 2022-11-14,neutral,
@@ -1318,7 +1314,7 @@ date,stock_news_sentiment,press_release_sentiment
 2022-11-28,weakly_negative,
 2022-11-29,neutral,
 2022-11-30,weakly_positive,
-2022-12-01,neutral,
+2022-12-01,weakly_positive,
 2022-12-02,weakly_positive,
 2022-12-03,weakly_positive,
 2022-12-04,weakly_positive,
@@ -1339,7 +1335,7 @@ date,stock_news_sentiment,press_release_sentiment
 2022-12-20,weakly_positive,
 2022-12-21,neutral,
 2022-12-22,weakly_positive,
-2022-12-23,weakly_positive,
+2022-12-23,neutral,
 2022-12-25,weakly_positive,
 2022-12-26,weakly_positive,
 2022-12-27,weakly_negative,
@@ -1420,7 +1416,7 @@ date,stock_news_sentiment,press_release_sentiment
 2023-03-12,weakly_positive,
 2023-03-13,weakly_positive,weakly_positive
 2023-03-14,weakly_positive,
-2023-03-15,weakly_positive,
+2023-03-15,neutral,
 2023-03-16,neutral,weakly_positive
 2023-03-17,weakly_positive,weakly_positive
 2023-03-18,weakly_positive,weakly_positive
@@ -1444,9 +1440,8 @@ date,stock_news_sentiment,press_release_sentiment
 2023-04-05,weakly_positive,
 2023-04-06,weakly_positive,
 2023-04-07,weakly_positive,
-2023-04-08,weakly_positive,
 2023-04-09,weakly_positive,
-2023-04-10,weakly_positive,
+2023-04-10,neutral,
 2023-04-11,weakly_positive,weakly_positive
 2023-04-12,weakly_positive,weakly_positive
 2023-04-13,weakly_positive,
@@ -1473,7 +1468,7 @@ date,stock_news_sentiment,press_release_sentiment
 2023-05-05,weakly_positive,weakly_positive
 2023-05-06,neutral,
 2023-05-07,weakly_positive,
-2023-05-08,weakly_positive,weakly_positive
+2023-05-08,neutral,weakly_positive
 2023-05-09,weakly_positive,weakly_positive
 2023-05-10,weakly_positive,weakly_negative
 2023-05-11,weakly_positive,
@@ -1542,7 +1537,7 @@ date,stock_news_sentiment,press_release_sentiment
 2023-07-14,weakly_positive,
 2023-07-15,weakly_positive,
 2023-07-17,weakly_positive,
-2023-07-18,weakly_positive,
+2023-07-18,neutral,
 2023-07-19,weakly_positive,
 2023-07-20,weakly_positive,
 2023-07-21,weakly_positive,
@@ -1562,10 +1557,10 @@ date,stock_news_sentiment,press_release_sentiment
 2023-08-04,neutral,
 2023-08-05,weakly_positive,
 2023-08-06,weakly_positive,
-2023-08-07,weakly_positive,
+2023-08-07,strongly_positive,
 2023-08-08,neutral,
 2023-08-09,weakly_positive,
-2023-08-10,weakly_positive,
+2023-08-10,neutral,
 2023-08-11,weakly_positive,
 2023-08-12,weakly_positive,
 2023-08-13,weakly_positive,
@@ -1586,7 +1581,7 @@ date,stock_news_sentiment,press_release_sentiment
 2023-08-29,weakly_positive,strongly_positive
 2023-08-30,weakly_positive,
 2023-08-31,weakly_positive,
-2023-09-01,weakly_positive,
+2023-09-01,neutral,
 2023-09-02,neutral,
 2023-09-03,strongly_positive,
 2023-09-04,weakly_positive,
@@ -1649,7 +1644,7 @@ date,stock_news_sentiment,press_release_sentiment
 2023-11-01,weakly_positive,
 2023-11-02,weakly_positive,
 2023-11-03,weakly_positive,
-2023-11-04,neutral,
+2023-11-04,weakly_positive,
 2023-11-05,weakly_positive,
 2023-11-06,weakly_positive,
 2023-11-07,weakly_positive,weakly_positive
@@ -1674,7 +1669,7 @@ date,stock_news_sentiment,press_release_sentiment
 2023-11-26,weakly_positive,
 2023-11-27,weakly_positive,
 2023-11-28,weakly_positive,
-2023-11-29,neutral,
+2023-11-29,weakly_positive,
 2023-11-30,weakly_positive,
 2023-12-01,neutral,
 2023-12-02,weakly_positive,
@@ -1781,7 +1776,7 @@ date,stock_news_sentiment,press_release_sentiment
 2024-03-12,weakly_positive,
 2024-03-13,weakly_positive,
 2024-03-14,weakly_positive,
-2024-03-15,weakly_positive,
+2024-03-15,neutral,
 2024-03-16,weakly_positive,
 2024-03-17,weakly_positive,
 2024-03-18,weakly_positive,
@@ -1791,7 +1786,7 @@ date,stock_news_sentiment,press_release_sentiment
 2024-03-22,weakly_positive,
 2024-03-23,weakly_positive,
 2024-03-24,weakly_positive,
-2024-03-25,weakly_positive,
+2024-03-25,neutral,
 2024-03-26,weakly_positive,
 2024-03-27,weakly_positive,
 2024-03-28,weakly_positive,
@@ -1825,7 +1820,7 @@ date,stock_news_sentiment,press_release_sentiment
 2024-04-25,weakly_positive,
 2024-04-26,weakly_positive,
 2024-04-27,weakly_positive,
-2024-04-28,neutral,
+2024-04-28,weakly_positive,
 2024-04-29,weakly_positive,
 2024-04-30,weakly_positive,
 2024-05-01,weakly_positive,
@@ -1860,7 +1855,7 @@ date,stock_news_sentiment,press_release_sentiment
 2024-05-30,weakly_positive,
 2024-05-31,weakly_positive,
 2024-06-01,weakly_positive,
-2024-06-02,weakly_positive,
+2024-06-02,strongly_positive,
 2024-06-03,weakly_positive,
 2024-06-04,neutral,
 2024-06-05,neutral,
@@ -1930,7 +1925,7 @@ date,stock_news_sentiment,press_release_sentiment
 2024-08-08,neutral,
 2024-08-09,weakly_positive,
 2024-08-10,neutral,
-2024-08-11,neutral,
+2024-08-11,weakly_positive,
 2024-08-12,weakly_positive,
 2024-08-13,weakly_positive,
 2024-08-14,weakly_positive,
@@ -1956,7 +1951,7 @@ date,stock_news_sentiment,press_release_sentiment
 2024-09-03,weakly_positive,
 2024-09-04,weakly_positive,
 2024-09-05,weakly_positive,
-2024-09-06,weakly_negative,
+2024-09-06,neutral,
 2024-09-07,neutral,
 2024-09-08,weakly_positive,
 2024-09-09,weakly_positive,
@@ -2040,7 +2035,7 @@ date,stock_news_sentiment,press_release_sentiment
 2024-11-26,weakly_positive,
 2024-11-27,weakly_positive,
 2024-11-28,weakly_positive,
-2024-11-29,weakly_positive,
+2024-11-29,neutral,
 2024-11-30,weakly_positive,
 2024-12-01,weakly_positive,
 2024-12-02,weakly_positive,
@@ -2118,7 +2113,7 @@ date,stock_news_sentiment,press_release_sentiment
 2025-02-12,weakly_positive,
 2025-02-13,weakly_positive,
 2025-02-14,weakly_positive,
-2025-02-15,neutral,
+2025-02-15,weakly_positive,
 2025-02-16,weakly_positive,
 2025-02-17,weakly_negative,
 2025-02-18,weakly_positive,
@@ -2126,3 +2121,11 @@ date,stock_news_sentiment,press_release_sentiment
 2025-02-20,weakly_positive,
 2025-02-21,weakly_positive,
 2025-02-22,weakly_positive,
+2025-02-23,weakly_positive,
+2025-02-24,neutral,
+2025-02-25,weakly_positive,
+2025-02-26,weakly_positive,
+2025-02-27,weakly_positive,
+2025-02-28,weakly_positive,
+2025-03-01,weakly_positive,
+2025-03-02,weakly_positive,
