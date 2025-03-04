@@ -42,17 +42,17 @@ for stock in stocks:
                     try:
                         formatted_data.append({
                         "date": date_str,
-                        "close": record.get("close", ""),
-                        "high": record.get("high", ""),
-                        "low": record.get("low", ""),
-                        "open": record.get("open", ""),
-                        "traded_volume": record.get("volume", ""),
-                        "adjClose": record.get("adjClose", ""),
-                        "adjLow": record.get("adjLow", ""),
-                        "adjOpen": record.get("adjOpen", ""),
-                        "adj_traded_volume": record.get("adjVolume", ""),
-                        "divCash": record.get("divCash", ""),
-                        "splitFactor": record.get("splitFactor", ""),
+                        f"{stock['symbol']}_close": record.get("close", ""),
+                        f"{stock['symbol']}_high": record.get("high", ""),
+                        f"{stock['symbol']}_low": record.get("low", ""),
+                        f"{stock['symbol']}_open": record.get("open", ""),
+                        f"{stock['symbol']}_traded_volume": record.get("volume", ""),
+                        f"{stock['symbol']}_adjClose": record.get("adjClose", ""),
+                        f"{stock['symbol']}_adjLow": record.get("adjLow", ""),
+                        f"{stock['symbol']}_adjOpen": record.get("adjOpen", ""),
+                        f"{stock['symbol']}_adj_traded_volume": record.get("adjVolume", ""),
+                        f"{stock['symbol']}_divCash": record.get("divCash", ""),
+                        f"{stock['symbol']}_splitFactor": record.get("splitFactor", ""),
                         })
 
                     except ValueError as e:
