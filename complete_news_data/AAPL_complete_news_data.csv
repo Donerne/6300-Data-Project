@@ -174,7 +174,7 @@ date,AAPL_stock_news_sentiment,AAPL_press_release_sentiment,AAPL_twitter_social_
 03-03-2022,weakly_positive,,
 03-03-2023,weakly_positive,,
 03-03-2024,weakly_positive,,
-03-03-2025,weakly_positive,,strongly_positive
+03-03-2025,weakly_positive,,weakly_positive
 03-04-2014,weakly_positive,weakly_positive,
 03-04-2019,weakly_positive,,
 03-04-2020,neutral,,
@@ -254,7 +254,7 @@ date,AAPL_stock_news_sentiment,AAPL_press_release_sentiment,AAPL_twitter_social_
 04-03-2022,weakly_positive,,
 04-03-2023,weakly_positive,,
 04-03-2024,weakly_positive,,
-04-03-2025,weakly_positive,,strongly_positive
+04-03-2025,weakly_positive,strongly_positive,strongly_positive
 04-04-2019,neutral,,
 04-04-2020,weakly_negative,,
 04-04-2021,weakly_positive,,

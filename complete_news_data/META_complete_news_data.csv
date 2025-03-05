@@ -217,7 +217,7 @@ date,META_stock_news_sentiment,META_press_release_sentiment,META_twitter_social_
 04-03-2022,weakly_negative,,
 04-03-2023,weakly_positive,,
 04-03-2024,weakly_positive,,
-04-03-2025,,,weakly_positive
+04-03-2025,weakly_positive,,weakly_positive
 04-04-2019,weakly_negative,,
 04-04-2021,weakly_positive,,
 04-04-2022,neutral,,
@@ -411,7 +411,7 @@ date,META_stock_news_sentiment,META_press_release_sentiment,META_twitter_social_
 07-02-2022,neutral,,
 07-02-2023,weakly_positive,,
 07-02-2024,weakly_positive,,
-07-02-2025,weakly_positive,,weakly_positive
+07-02-2025,weakly_positive,,strongly_positive
 07-03-2019,neutral,,
 07-03-2020,weakly_negative,,
 07-03-2021,neutral,,

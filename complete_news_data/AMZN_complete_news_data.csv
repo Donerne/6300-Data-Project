@@ -337,7 +337,7 @@ date,AMZN_stock_news_sentiment,AMZN_press_release_sentiment,AMZN_twitter_social_
 04-03-2022,weakly_positive,,
 04-03-2023,weakly_positive,,
 04-03-2024,weakly_positive,strongly_positive,
-04-03-2025,,,weakly_positive
+04-03-2025,weakly_positive,,strongly_positive
 04-04-2012,weakly_positive,,
 04-04-2016,strongly_positive,,
 04-04-2017,weakly_positive,,
@@ -636,7 +636,7 @@ date,AMZN_stock_news_sentiment,AMZN_press_release_sentiment,AMZN_twitter_social_
 07-01-2022,weakly_positive,,
 07-01-2023,weakly_positive,,
 07-01-2024,weakly_positive,,
-07-01-2025,weakly_positive,weakly_positive,weakly_positive
+07-01-2025,weakly_positive,weakly_positive,strongly_positive
 07-02-2012,weakly_positive,,
 07-02-2014,weakly_positive,,
 07-02-2017,weakly_positive,,

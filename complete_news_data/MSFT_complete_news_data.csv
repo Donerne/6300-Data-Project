@@ -213,6 +213,7 @@ date,MSFT_stock_news_sentiment,MSFT_press_release_sentiment,MSFT_twitter_social_
 04-03-2022,neutral,weakly_positive,
 04-03-2023,weakly_positive,,
 04-03-2024,weakly_positive,,
+04-03-2025,weakly_positive,neutral,weakly_positive
 04-04-2019,weakly_positive,,
 04-04-2020,weakly_negative,,
 04-04-2021,weakly_positive,,
@@ -580,7 +581,7 @@ date,MSFT_stock_news_sentiment,MSFT_press_release_sentiment,MSFT_twitter_social_
 09-08-2023,weakly_positive,,
 09-08-2024,weakly_positive,strongly_negative,
 09-09-2019,weakly_positive,,
-09-09-2020,weakly_positive,neutral,
+09-09-2020,weakly_positive,weakly_positive,
 09-09-2021,weakly_positive,,
 09-09-2022,neutral,,
 09-09-2023,weakly_positive,,

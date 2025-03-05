@@ -1,6 +1,23 @@
 published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts,stock_twitter_likes,sentiment_score,weighted_daily_sentiment
-04-03-2025,14,73,0.52104,12,18,0.52808,strongly_positive
-04-03-2025,180,32660,0.52463,53,133,0.54357,strongly_positive
+04-03-2025,107,10973,0.50394,33,78,0.52188,strongly_positive
+04-03-2025,413,124900,0.53586,142,255,0.52474,strongly_positive
+04-03-2025,651,150220,0.52976,234,203,0.54691,strongly_positive
+04-03-2025,483,94350,0.52987,239,239,0.53367,strongly_positive
+04-03-2025,419,60729,0.51723,240,212,0.53658,strongly_positive
+04-03-2025,396,48365,0.63165,241,194,0.54748,strongly_positive
+04-03-2025,251,6939,0.59198,239,170,0.54972,strongly_positive
+04-03-2025,827,243083,0.52279,240,213,0.54229,strongly_positive
+04-03-2025,743,158392,0.53645,240,170,0.53061,strongly_positive
+04-03-2025,353,32168,0.62397,240,172,0.5246,strongly_positive
+04-03-2025,329,31782,0.52584,239,206,0.53115,strongly_positive
+04-03-2025,519,106788,0.50379,162,159,0.52072,strongly_positive
+04-03-2025,289,47156,0.6178,94,131,0.51849,strongly_positive
+04-03-2025,123,8407,0.52087,45,61,0.53893,strongly_positive
+04-03-2025,99,9811,0.49953,50,124,0.50592,strongly_positive
+04-03-2025,54,3674,0.57168,29,91,0.55462,strongly_positive
+04-03-2025,31,1058,0.6485,19,56,0.55484,strongly_positive
+04-03-2025,44,1154,0.49931,38,90,0.50605,strongly_positive
+04-03-2025,180,32905,0.52463,53,134,0.54357,strongly_positive
 03-03-2025,222,49994,0.5375,73,182,0.52764,strongly_positive
 03-03-2025,256,48288,0.57069,105,189,0.5235,strongly_positive
 03-03-2025,237,47209,0.53052,111,229,0.53333,strongly_positive
@@ -59,8 +76,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 01-03-2025,26,595,0.56014,17,41,0.56841,strongly_positive
 01-03-2025,13,153,0.55795,12,58,0.57867,strongly_positive
 01-03-2025,59,1407,0.53222,18,18,0.537,strongly_positive
-01-03-2025,0,0,0.5,0,0,0.5,strongly_positive
-01-03-2025,132,0,0.5567,42,0,0.56529,strongly_positive
+01-03-2025,132,3861,0.5567,42,23,0.56529,strongly_positive
 01-03-2025,61,1631,0.65048,26,28,0.54446,strongly_positive
 01-03-2025,43,1598,0.51122,21,45,0.52914,strongly_positive
 01-03-2025,62,5949,0.55673,32,124,0.50859,strongly_positive
@@ -103,7 +119,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 27-02-2025,180,31451,0.53677,88,211,0.53953,strongly_positive
 27-02-2025,212,25923,0.49346,120,176,0.51204,strongly_positive
 27-02-2025,234,26521,0.53536,155,205,0.53133,strongly_positive
-27-02-2025,567,117882,0.50761,219,196,0.52605,strongly_positive
+27-02-2025,0,0,0.5,0,0,0.5,strongly_positive
+27-02-2025,567,0,0.50761,219,0,0.52605,strongly_positive
 27-02-2025,511,74430,0.5206,224,156,0.52721,strongly_positive
 27-02-2025,520,67549,0.50928,240,147,0.51534,strongly_positive
 27-02-2025,358,26196,0.60081,240,135,0.50745,strongly_positive
@@ -120,8 +137,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 27-02-2025,145,14979,0.50572,64,111,0.51588,strongly_positive
 27-02-2025,99,19445,0.554,46,223,0.55578,strongly_positive
 27-02-2025,92,8757,0.63769,62,177,0.54927,strongly_positive
-27-02-2025,0,0,0.5,0,0,0.5,strongly_positive
-27-02-2025,108,0,0.507,78,0,0.51688,strongly_positive
+27-02-2025,108,9951,0.507,78,193,0.51688,strongly_positive
 27-02-2025,118,4621,0.54236,102,133,0.50709,strongly_positive
 26-02-2025,395,121139,0.52887,137,261,0.52123,strongly_positive
 26-02-2025,457,128632,0.52579,166,250,0.54157,strongly_positive
@@ -147,7 +163,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 26-02-2025,70,3338,0.52694,35,59,0.52003,strongly_positive
 26-02-2025,51,2982,0.50265,38,130,0.51355,strongly_positive
 26-02-2025,75,3299,0.55863,60,115,0.55917,strongly_positive
-25-02-2025,90,2537,0.54119,87,212,0.56171,strongly_positive
+25-02-2025,57,826,0.54128,55,109,0.5618,strongly_positive
 25-02-2025,213,35548,0.53714,79,151,0.55241,strongly_positive
 25-02-2025,250,49098,0.57562,97,186,0.54015,strongly_positive
 25-02-2025,250,46196,0.66364,110,199,0.54084,strongly_positive
@@ -164,7 +180,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 25-02-2025,434,74640,0.51347,180,174,0.53262,strongly_positive
 25-02-2025,240,21057,0.53451,141,133,0.55155,strongly_positive
 25-02-2025,132,10046,0.52485,91,148,0.53693,strongly_positive
-25-02-2025,73,3400,0.65225,54,103,0.52302,strongly_positive
+25-02-2025,0,0,0.5,0,0,0.5,strongly_positive
+25-02-2025,73,0,0.65225,54,0,0.52302,strongly_positive
 25-02-2025,114,11416,0.59186,36,78,0.51419,strongly_positive
 25-02-2025,100,5063,0.48999,33,41,0.501,strongly_positive
 25-02-2025,103,7989,0.56686,38,70,0.53361,strongly_positive
@@ -181,8 +198,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 24-02-2025,221,10518,0.50477,198,189,0.52357,strongly_positive
 24-02-2025,399,52470,0.49401,132,107,0.50794,strongly_positive
 24-02-2025,146,8059,0.50772,54,50,0.48487,strongly_positive
-24-02-2025,0,0,0.5,0,0,0.5,strongly_positive
-24-02-2025,342,0,0.51234,133,0,0.53148,strongly_positive
+24-02-2025,342,54785,0.51234,133,152,0.53148,strongly_positive
 24-02-2025,316,45217,0.52644,172,196,0.53802,strongly_positive
 24-02-2025,305,37139,0.52151,194,206,0.53847,strongly_positive
 24-02-2025,108,2261,0.51664,96,80,0.51647,strongly_positive
@@ -226,6 +242,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 22-02-2025,74,2693,0.63527,25,30,0.5252,strongly_positive
 22-02-2025,37,893,0.58538,17,27,0.52229,strongly_positive
 22-02-2025,25,338,0.49918,12,16,0.51433,strongly_positive
+22-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 22-02-2025,34,1423,0.5237,19,59,0.50321,strongly_positive
 22-02-2025,29,447,0.56169,22,36,0.50036,strongly_positive
 22-02-2025,29,244,0.54059,27,38,0.55085,strongly_positive
@@ -243,7 +260,6 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 22-02-2025,12,141,0.4585,7,18,0.47414,strongly_positive
 22-02-2025,14,99,0.53522,13,33,0.54131,strongly_positive
 22-02-2025,5,82,0.52103,5,11,0.5066,strongly_positive
-22-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 22-02-2025,28,1189,0.63533,9,33,0.54544,strongly_positive
 21-02-2025,27,642,0.53286,18,43,0.55283,strongly_positive
 21-02-2025,30,281,0.58321,21,19,0.52148,strongly_positive
@@ -287,6 +303,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 20-02-2025,82,3871,0.49815,64,119,0.51583,strongly_positive
 20-02-2025,56,837,0.54225,53,91,0.5307,strongly_positive
 20-02-2025,111,14043,0.60018,38,106,0.54821,strongly_positive
+20-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 20-02-2025,65,2013,0.54653,25,29,0.55068,strongly_positive
 20-02-2025,69,5269,0.56977,28,75,0.55704,strongly_positive
 20-02-2025,26,502,0.56464,15,28,0.57367,strongly_positive
@@ -304,8 +321,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 19-02-2025,64,522,0.49906,39,13,0.51536,strongly_positive
 19-02-2025,160,10028,0.52824,115,131,0.53973,strongly_positive
 19-02-2025,599,102392,0.54299,174,124,0.53067,strongly_positive
-19-02-2025,0,0,0.5,0,0,0.5,strongly_positive
-19-02-2025,377,0,0.58552,122,0,0.50674,strongly_positive
+19-02-2025,377,66595,0.58552,122,141,0.50674,strongly_positive
 19-02-2025,61,1379,0.50485,22,20,0.51918,strongly_positive
 19-02-2025,423,47231,0.49574,195,126,0.51418,strongly_positive
 19-02-2025,185,11878,0.52667,98,85,0.52049,strongly_positive
@@ -348,7 +364,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 17-02-2025,140,14481,0.54302,57,103,0.56321,strongly_positive
 17-02-2025,35,1018,0.5621,20,43,0.574,strongly_positive
 17-02-2025,49,2224,0.54777,30,73,0.5234,strongly_positive
-17-02-2025,26,249,0.52989,25,68,0.53036,strongly_positive
+17-02-2025,26,249,0.49956,25,68,0.5,strongly_positive
+17-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 17-02-2025,62,5989,0.53427,18,70,0.54589,strongly_positive
 17-02-2025,43,1996,0.49352,14,37,0.50964,strongly_positive
 17-02-2025,75,4124,0.53726,33,59,0.55715,strongly_positive
@@ -365,8 +382,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 17-02-2025,22,175,0.47561,9,8,0.47244,strongly_positive
 17-02-2025,25,433,0.60038,12,20,0.53375,strongly_positive
 17-02-2025,14,320,0.50819,7,28,0.52314,strongly_positive
-17-02-2025,12,103,0.48178,9,19,0.5,strongly_positive
-17-02-2025,0,0,0.5,0,0,0.5,strongly_positive
+17-02-2025,12,103,0.5155,9,19,0.535,strongly_positive
 16-02-2025,23,254,0.55442,20,42,0.556,strongly_positive
 16-02-2025,21,145,0.523,20,47,0.53365,strongly_positive
 16-02-2025,57,2346,0.66792,21,37,0.55124,strongly_positive
@@ -428,7 +444,6 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 14-02-2025,450,78490,0.59047,158,150,0.53753,strongly_positive
 14-02-2025,367,52883,0.54008,145,139,0.54511,strongly_positive
 14-02-2025,387,55088,0.64436,215,200,0.54762,strongly_positive
-14-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 14-02-2025,400,58200,0.53308,236,221,0.54079,strongly_positive
 14-02-2025,263,22120,0.57872,182,164,0.5353,strongly_positive
 14-02-2025,130,1427,0.64629,128,157,0.5483,strongly_positive
@@ -472,6 +487,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 12-02-2025,56,970,0.62441,46,50,0.5513,strongly_positive
 12-02-2025,106,7253,0.50288,52,83,0.52015,strongly_positive
 12-02-2025,223,21889,0.57577,116,127,0.52808,strongly_positive
+12-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 12-02-2025,268,26110,0.50838,162,153,0.51112,strongly_positive
 12-02-2025,200,6029,0.62357,188,167,0.53464,strongly_positive
 12-02-2025,315,40206,0.49224,91,92,0.50101,strongly_positive
@@ -489,7 +505,6 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 12-02-2025,33,666,0.56357,21,35,0.55881,strongly_positive
 12-02-2025,100,5549,0.51963,29,40,0.53231,strongly_positive
 11-02-2025,102,6297,0.54387,33,49,0.51433,strongly_positive
-11-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 11-02-2025,67,3761,0.58838,27,55,0.51333,strongly_positive
 11-02-2025,68,4609,0.52273,31,76,0.53639,strongly_positive
 11-02-2025,41,2071,0.56397,20,60,0.53265,strongly_positive
@@ -533,6 +548,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 10-02-2025,45,713,0.56655,39,54,0.53164,strongly_positive
 10-02-2025,85,6629,0.6892,25,57,0.56168,strongly_positive
 10-02-2025,50,1807,0.54439,18,32,0.56011,strongly_positive
+10-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 10-02-2025,22,619,0.55981,9,28,0.57489,strongly_positive
 10-02-2025,41,1145,0.55246,19,32,0.52584,strongly_positive
 10-02-2025,23,440,0.64059,14,31,0.56357,strongly_positive
@@ -550,7 +566,6 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 09-02-2025,81,4986,0.62288,35,65,0.51734,strongly_positive
 09-02-2025,46,1768,0.55044,23,47,0.57026,strongly_positive
 09-02-2025,26,659,0.59562,19,55,0.60558,strongly_positive
-09-02-2025,0,0,0.5,0,0,0.5,strongly_positive
 09-02-2025,29,561,0.56148,23,49,0.54113,strongly_positive
 09-02-2025,46,1605,0.55812,15,28,0.56187,strongly_positive
 09-02-2025,32,575,0.50675,11,15,0.51555,strongly_positive
@@ -895,7 +910,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 26-01-2025,2,14,0.21842,1,8,0.219,strongly_positive
 26-01-2025,12,160,0.4714,6,17,0.46383,strongly_positive
 26-01-2025,7,69,0.52005,5,24,0.5304,strongly_positive
-26-01-2025,12,109,0.47153,11,46,0.44127,strongly_positive
+26-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+26-01-2025,12,0,0.47153,11,0,0.44127,strongly_positive
 26-01-2025,49,1925,0.49329,14,28,0.51193,strongly_positive
 26-01-2025,45,1462,0.51099,17,30,0.52618,strongly_positive
 25-01-2025,73,3538,0.5236,29,47,0.48934,strongly_positive
@@ -912,8 +928,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 25-01-2025,104,5366,0.53311,30,37,0.55323,strongly_positive
 25-01-2025,94,4647,0.53925,30,39,0.54143,strongly_positive
 25-01-2025,45,2547,0.59955,18,55,0.56872,strongly_positive
-25-01-2025,0,0,0.5,0,0,0.5,strongly_positive
-25-01-2025,79,3481,0.60422,36,49,0.5,strongly_positive
+25-01-2025,79,3481,0.61389,36,49,0.508,strongly_positive
 25-01-2025,35,1279,0.50665,17,43,0.50829,strongly_positive
 25-01-2025,13,156,0.51569,9,24,0.53144,strongly_positive
 25-01-2025,5,24,0.53902,4,15,0.51825,strongly_positive
@@ -956,7 +971,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 23-01-2025,148,21186,0.5248,51,121,0.53976,strongly_positive
 23-01-2025,374,70333,0.68648,135,166,0.56194,strongly_positive
 23-01-2025,103,6641,0.49447,42,64,0.5129,strongly_positive
-23-01-2025,38,1007,0.54001,22,39,0.55168,strongly_positive
+23-01-2025,38,0,0.48943,22,0,0.5,strongly_positive
+23-01-2025,0,0,0.5,0,0,0.5,strongly_positive
 23-01-2025,201,13063,0.57441,123,104,0.54835,strongly_positive
 23-01-2025,195,14089,0.64162,141,152,0.53585,strongly_positive
 23-01-2025,594,127512,0.55269,173,156,0.56495,strongly_positive
@@ -973,8 +989,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 23-01-2025,39,2010,0.57583,24,83,0.55713,strongly_positive
 22-01-2025,28,579,0.59364,20,44,0.5058,strongly_positive
 22-01-2025,48,1361,0.53246,37,70,0.54068,strongly_positive
-22-01-2025,64,0,0.56308,30,0,0.5,strongly_positive
-22-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+22-01-2025,64,2606,0.64882,30,47,0.57613,strongly_positive
 22-01-2025,195,19546,0.5036,97,123,0.51825,strongly_positive
 22-01-2025,103,7366,0.5303,59,105,0.50771,strongly_positive
 22-01-2025,68,1715,0.54689,60,94,0.54812,strongly_positive
@@ -1017,7 +1032,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 21-01-2025,29,972,0.54431,18,56,0.56278,strongly_positive
 21-01-2025,18,234,0.58481,12,24,0.5375,strongly_positive
 21-01-2025,34,1068,0.60224,10,23,0.586,strongly_positive
-21-01-2025,24,1101,0.5791,8,37,0.49775,strongly_positive
+21-01-2025,24,0,0.5791,8,0,0.49775,strongly_positive
+21-01-2025,0,0,0.5,0,0,0.5,strongly_positive
 21-01-2025,34,1383,0.53246,14,41,0.53864,strongly_positive
 21-01-2025,30,1086,0.49916,14,42,0.51743,strongly_positive
 20-01-2025,26,865,0.63856,13,41,0.54792,strongly_positive
@@ -1034,8 +1050,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 20-01-2025,61,1641,0.62654,31,34,0.53055,strongly_positive
 20-01-2025,28,851,0.57554,21,71,0.52414,strongly_positive
 20-01-2025,47,1180,0.53089,38,70,0.54934,strongly_positive
-20-01-2025,0,0,0.5,0,0,0.5,strongly_positive
-20-01-2025,2,12,0.51253,2,117,0.5,strongly_positive
+20-01-2025,2,12,0.30495,2,117,0.2975,strongly_positive
 20-01-2025,100,7356,0.55972,35,63,0.50897,strongly_positive
 20-01-2025,23,409,0.50623,9,17,0.51122,strongly_positive
 20-01-2025,20,330,0.58911,9,18,0.61089,strongly_positive
@@ -1097,8 +1112,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 17-01-2025,21,244,0.6057,11,15,0.56391,strongly_positive
 17-01-2025,28,961,0.7241,17,54,0.58371,strongly_positive
 17-01-2025,23,333,0.53886,15,25,0.53393,strongly_positive
-17-01-2025,0,0,0.5,0,0,0.5,strongly_positive
-17-01-2025,139,9072,0.48828,40,47,0.5,strongly_positive
+17-01-2025,139,9072,0.50355,40,47,0.51563,strongly_positive
 17-01-2025,128,10823,0.52236,41,67,0.49351,strongly_positive
 17-01-2025,116,9568,0.53791,39,68,0.55831,strongly_positive
 17-01-2025,199,28642,0.55033,91,161,0.56491,strongly_positive
@@ -1141,7 +1155,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 16-01-2025,86,9801,0.62201,31,100,0.56281,strongly_positive
 16-01-2025,217,32042,0.55081,88,146,0.55757,strongly_positive
 16-01-2025,157,11917,0.53192,82,99,0.55138,strongly_positive
-16-01-2025,46,927,0.55155,28,32,0.55796,strongly_positive
+16-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+16-01-2025,46,0,0.55155,28,0,0.55796,strongly_positive
 15-01-2025,56,1993,0.54203,36,62,0.54906,strongly_positive
 15-01-2025,117,12149,0.55009,35,77,0.53226,strongly_positive
 15-01-2025,69,7852,0.63172,23,93,0.5383,strongly_positive
@@ -1158,8 +1173,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 15-01-2025,338,31804,0.56236,230,178,0.52151,strongly_positive
 15-01-2025,721,198345,0.56134,216,205,0.5499,strongly_positive
 15-01-2025,291,34634,0.53519,91,92,0.55244,strongly_positive
-15-01-2025,0,0,0.5,0,0,0.5,strongly_positive
-15-01-2025,120,0,0.52116,42,0,0.53286,strongly_positive
+15-01-2025,120,11502,0.52116,42,82,0.53286,strongly_positive
 15-01-2025,63,2409,0.50287,30,45,0.5217,strongly_positive
 15-01-2025,26,852,0.66256,13,41,0.57462,strongly_positive
 15-01-2025,15,229,0.46354,9,23,0.47644,strongly_positive
@@ -1202,7 +1216,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 13-01-2025,134,4781,0.60615,124,168,0.52134,strongly_positive
 13-01-2025,397,111867,0.51056,121,213,0.52585,strongly_positive
 13-01-2025,393,79598,0.55167,125,159,0.5152,strongly_positive
-13-01-2025,390,68714,0.56182,167,184,0.55323,strongly_positive
+13-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+13-01-2025,390,68714,0.50776,167,184,0.5,strongly_positive
 13-01-2025,386,65871,0.50587,174,188,0.52122,strongly_positive
 13-01-2025,424,66920,0.51106,219,203,0.52393,strongly_positive
 13-01-2025,243,16491,0.50803,188,165,0.52725,strongly_positive
@@ -1219,8 +1234,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 12-01-2025,115,6139,0.49827,52,59,0.51083,strongly_positive
 12-01-2025,106,8205,0.51009,55,100,0.52556,strongly_positive
 12-01-2025,69,2690,0.65219,38,54,0.53818,strongly_positive
-12-01-2025,35,0,0.61404,29,0,0.54697,strongly_positive
-12-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+12-01-2025,35,1201,0.61404,29,103,0.54697,strongly_positive
 12-01-2025,87,7389,0.56361,25,61,0.57432,strongly_positive
 12-01-2025,76,10332,0.52439,27,118,0.54419,strongly_positive
 12-01-2025,70,6744,0.5472,28,94,0.54932,strongly_positive
@@ -1264,6 +1278,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 11-01-2025,16,121,0.57948,11,14,0.57936,strongly_positive
 11-01-2025,18,225,0.46599,13,26,0.47646,strongly_positive
 11-01-2025,26,219,0.5242,22,28,0.54109,strongly_positive
+10-01-2025,0,0,0.5,0,0,0.5,strongly_positive
 10-01-2025,62,2110,0.58027,20,27,0.57965,strongly_positive
 10-01-2025,41,1443,0.5908,15,31,0.53047,strongly_positive
 10-01-2025,59,3916,0.55231,24,66,0.561,strongly_positive
@@ -1281,8 +1296,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 10-01-2025,639,102913,0.55895,232,143,0.51053,strongly_positive
 10-01-2025,313,46203,0.50482,119,137,0.52261,strongly_positive
 10-01-2025,186,20336,0.53809,80,115,0.52606,strongly_positive
-10-01-2025,114,0,0.49214,70,0,0.5,strongly_positive
-10-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+10-01-2025,114,4930,0.52124,70,70,0.52956,strongly_positive
 10-01-2025,50,1094,0.51075,33,39,0.51503,strongly_positive
 10-01-2025,46,1462,0.52445,19,32,0.53989,strongly_positive
 10-01-2025,44,2988,0.65609,19,72,0.53921,strongly_positive
@@ -1325,7 +1339,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 08-01-2025,498,132291,0.51084,184,240,0.52949,strongly_positive
 08-01-2025,442,93002,0.51382,208,243,0.51993,strongly_positive
 08-01-2025,395,53078,0.56431,214,183,0.51925,strongly_positive
-08-01-2025,247,18684,0.4994,142,111,0.51754,strongly_positive
+08-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+08-01-2025,247,0,0.48248,142,0,0.5,strongly_positive
 08-01-2025,271,8392,0.50239,239,115,0.51946,strongly_positive
 08-01-2025,676,154239,0.54489,201,169,0.55536,strongly_positive
 08-01-2025,564,165848,0.53152,175,226,0.53386,strongly_positive
@@ -1342,8 +1357,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 07-01-2025,149,12495,0.52385,101,157,0.52051,strongly_positive
 07-01-2025,280,33951,0.52074,110,116,0.53953,strongly_positive
 07-01-2025,278,54862,0.53633,124,215,0.54361,strongly_positive
-07-01-2025,262,0,0.54155,134,0,0.5,strongly_positive
-07-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+07-01-2025,262,29520,0.56884,134,143,0.5252,strongly_positive
 07-01-2025,302,23857,0.64137,207,151,0.5429,strongly_positive
 07-01-2025,285,18791,0.50108,233,186,0.51775,strongly_positive
 07-01-2025,236,7522,0.55283,208,117,0.50969,strongly_positive
@@ -1413,7 +1427,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 04-01-2025,10,21,0.47484,4,2,0.4485,weakly_positive
 04-01-2025,38,960,0.48739,16,26,0.50587,weakly_positive
 04-01-2025,14,71,0.55989,7,6,0.56014,weakly_positive
-04-01-2025,17,225,0.60315,12,27,0.62075,weakly_positive
+04-01-2025,0,0,0.5,0,0,0.5,weakly_positive
+04-01-2025,17,225,0.48582,12,27,0.5,weakly_positive
 04-01-2025,14,143,0.67549,11,24,0.55455,weakly_positive
 04-01-2025,1,0,0.50816,1,1,0.527,weakly_positive
 04-01-2025,0,0,0.0,0,0,0.0,weakly_positive
@@ -1435,8 +1450,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 04-01-2025,47,1189,0.53491,22,29,0.55273,weakly_positive
 04-01-2025,26,479,0.5695,18,35,0.57483,weakly_positive
 03-01-2025,37,1206,0.60196,27,70,0.58704,strongly_positive
-03-01-2025,0,0,0.5,0,0,0.5,strongly_positive
-03-01-2025,51,2318,0.4929,16,35,0.5,strongly_positive
+03-01-2025,51,2318,0.55919,16,35,0.56725,strongly_positive
 03-01-2025,70,3754,0.5683,23,43,0.57404,strongly_positive
 03-01-2025,134,14236,0.54579,49,95,0.56594,strongly_positive
 03-01-2025,81,5036,0.57332,41,78,0.59217,strongly_positive
@@ -1479,7 +1493,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 02-01-2025,46,2070,0.6485,18,43,0.5725,strongly_positive
 02-01-2025,32,1309,0.54495,13,41,0.55992,strongly_positive
 02-01-2025,15,260,0.54713,9,26,0.56789,strongly_positive
-02-01-2025,15,257,0.47719,10,33,0.4768,strongly_positive
+02-01-2025,0,0,0.5,0,0,0.5,strongly_positive
+02-01-2025,15,0,0.47719,10,0,0.4768,strongly_positive
 02-01-2025,10,50,0.54859,7,11,0.56114,strongly_positive
 02-01-2025,22,561,0.57597,10,28,0.5862,strongly_positive
 02-01-2025,19,686,0.61175,9,42,0.61556,strongly_positive
@@ -1496,8 +1511,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 01-01-2025,27,632,0.60156,9,19,0.59644,strongly_positive
 01-01-2025,61,2610,0.60621,23,39,0.53722,strongly_positive
 01-01-2025,46,746,0.69343,22,19,0.55864,strongly_positive
-01-01-2025,0,0,0.5,0,0,0.5,strongly_positive
-01-01-2025,25,0,0.53521,14,0,0.5555,strongly_positive
+01-01-2025,25,469,0.53521,14,26,0.5555,strongly_positive
 01-01-2025,21,238,0.63086,12,17,0.55817,strongly_positive
 01-01-2025,8,10,0.6131,7,5,0.579,strongly_positive
 01-01-2025,13,107,0.63846,4,6,0.525,strongly_positive
@@ -1541,7 +1555,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 30-12-2024,84,5822,0.49163,36,72,0.51025,strongly_positive
 30-12-2024,263,23215,0.53575,128,106,0.53366,strongly_positive
 30-12-2024,107,4375,0.52788,77,85,0.54208,strongly_positive
-30-12-2024,165,11617,0.68156,127,169,0.55434,strongly_positive
+30-12-2024,0,0,0.5,0,0,0.5,strongly_positive
+30-12-2024,165,11617,0.61475,127,169,0.5,strongly_positive
 30-12-2024,230,9174,0.53385,214,198,0.55394,strongly_positive
 30-12-2024,622,82483,0.52486,210,110,0.53873,strongly_positive
 30-12-2024,108,5604,0.60239,41,48,0.57259,strongly_positive
@@ -1558,8 +1573,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 30-12-2024,22,301,0.50187,21,71,0.51995,strongly_positive
 29-12-2024,59,2559,0.56962,17,31,0.517,strongly_positive
 29-12-2024,42,2496,0.55361,16,55,0.5335,strongly_positive
-29-12-2024,0,0,0.5,0,0,0.5,strongly_positive
-29-12-2024,53,0,0.52282,21,0,0.54176,strongly_positive
+29-12-2024,53,2674,0.52282,21,49,0.54176,strongly_positive
 29-12-2024,40,1010,0.4902,18,28,0.49661,strongly_positive
 29-12-2024,32,1415,0.53442,21,79,0.553,strongly_positive
 29-12-2024,26,624,0.60529,18,48,0.51172,strongly_positive
@@ -1603,7 +1617,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 28-12-2024,17,102,0.71631,6,5,0.60033,strongly_positive
 28-12-2024,10,161,0.54596,4,15,0.565,strongly_positive
 28-12-2024,12,128,0.5182,6,13,0.53533,strongly_positive
-28-12-2024,9,86,0.62539,5,14,0.6062,strongly_positive
+28-12-2024,0,0,0.5,0,0,0.5,strongly_positive
+28-12-2024,9,0,0.62539,5,0,0.6062,strongly_positive
 28-12-2024,16,360,0.49724,10,36,0.5147,strongly_positive
 27-12-2024,20,77,0.53299,19,25,0.54047,strongly_positive
 27-12-2024,39,409,0.49761,12,8,0.5155,strongly_positive
@@ -1620,8 +1635,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 27-12-2024,227,21749,0.50446,139,154,0.52044,strongly_positive
 27-12-2024,309,16488,0.51016,224,113,0.52206,strongly_positive
 27-12-2024,209,17530,0.5321,61,61,0.52156,strongly_positive
-27-12-2024,0,0,0.5,0,0,0.5,strongly_positive
-27-12-2024,102,4208,0.57501,33,33,0.5,strongly_positive
+27-12-2024,102,4208,0.67307,33,33,0.58527,strongly_positive
 27-12-2024,41,647,0.52841,15,14,0.54273,strongly_positive
 27-12-2024,11,96,0.62056,8,19,0.56137,strongly_positive
 27-12-2024,8,26,0.54624,7,12,0.553,strongly_positive
@@ -1664,7 +1678,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 25-12-2024,35,1785,0.58064,22,85,0.54341,strongly_positive
 25-12-2024,13,13,0.51774,13,21,0.51062,strongly_positive
 25-12-2024,51,4446,0.50001,15,64,0.51487,strongly_positive
-25-12-2024,20,502,0.6057,8,24,0.60663,strongly_positive
+25-12-2024,0,0,0.5,0,0,0.5,strongly_positive
+25-12-2024,20,502,0.49924,8,24,0.5,strongly_positive
 25-12-2024,36,1358,0.5637,15,38,0.5554,strongly_positive
 25-12-2024,36,1087,0.57576,17,35,0.50488,strongly_positive
 25-12-2024,20,216,0.53643,14,21,0.50293,strongly_positive
@@ -1681,8 +1696,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 24-12-2024,22,335,0.54479,14,26,0.54936,strongly_positive
 24-12-2024,22,340,0.5703,17,36,0.59153,strongly_positive
 24-12-2024,17,104,0.6352,14,17,0.54907,strongly_positive
-24-12-2024,39,1383,0.53964,13,29,0.5,strongly_positive
-24-12-2024,0,0,0.5,0,0,0.5,strongly_positive
+24-12-2024,39,1383,0.61303,13,29,0.568,strongly_positive
 24-12-2024,37,2025,0.61371,14,50,0.4915,strongly_positive
 24-12-2024,25,968,0.52077,10,37,0.5143,strongly_positive
 24-12-2024,42,2376,0.56461,23,79,0.57709,strongly_positive
@@ -1726,6 +1740,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 23-12-2024,15,343,0.62879,5,19,0.6184,strongly_positive
 23-12-2024,28,1222,0.59402,12,46,0.54633,strongly_positive
 23-12-2024,40,1176,0.55113,20,36,0.55325,strongly_positive
+23-12-2024,0,0,0.5,0,0,0.5,strongly_positive
 23-12-2024,44,2087,0.54941,23,62,0.53978,strongly_positive
 22-12-2024,42,1603,0.55264,33,97,0.56315,strongly_positive
 22-12-2024,20,158,0.57964,19,50,0.54137,strongly_positive
@@ -1743,8 +1758,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 22-12-2024,34,1443,0.64948,12,36,0.55042,strongly_positive
 22-12-2024,30,678,0.56177,11,20,0.56927,strongly_positive
 22-12-2024,19,381,0.58339,8,20,0.53838,strongly_positive
-22-12-2024,0,0,0.5,0,0,0.5,strongly_positive
-22-12-2024,7,47,0.51227,4,10,0.5,strongly_positive
+22-12-2024,7,47,0.41904,4,10,0.409,strongly_positive
 22-12-2024,5,34,0.53772,3,11,0.55567,strongly_positive
 22-12-2024,1,0,0.58209,1,0,0.594,strongly_positive
 22-12-2024,10,28,0.55283,3,2,0.539,strongly_positive
@@ -1788,7 +1802,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 20-12-2024,144,4467,0.53378,126,111,0.53263,strongly_positive
 20-12-2024,415,74558,0.53396,145,154,0.54883,strongly_positive
 20-12-2024,577,94131,0.65865,211,146,0.5377,strongly_positive
-20-12-2024,580,91381,0.52821,240,159,0.54799,strongly_positive
+20-12-2024,0,0,0.5,0,0,0.5,strongly_positive
+20-12-2024,580,0,0.52821,240,0,0.54799,strongly_positive
 20-12-2024,382,36442,0.51958,224,144,0.53124,strongly_positive
 20-12-2024,285,29618,0.56388,178,171,0.53732,strongly_positive
 20-12-2024,347,49025,0.51951,138,137,0.52243,strongly_positive
@@ -1806,7 +1821,6 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 19-12-2024,134,12622,0.46351,40,70,0.47598,weakly_positive
 19-12-2024,165,11460,0.52022,55,57,0.53525,weakly_positive
 19-12-2024,103,7060,0.51791,43,70,0.5134,weakly_positive
-19-12-2024,0,0,0.5,0,0,0.5,weakly_positive
 19-12-2024,107,9916,0.58782,51,109,0.52075,weakly_positive
 19-12-2024,273,17886,0.49951,138,82,0.51373,weakly_positive
 19-12-2024,35,445,0.47885,26,29,0.497,weakly_positive
@@ -1942,7 +1956,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 14-12-2024,9,49,0.58584,6,10,0.57533,weakly_positive
 14-12-2024,13,18,0.48074,4,1,0.48975,weakly_positive
 14-12-2024,16,255,0.52677,5,12,0.5294,weakly_positive
-14-12-2024,10,10,0.55733,4,1,0.47825,weakly_positive
+14-12-2024,10,10,0.58267,4,1,0.5,weakly_positive
+14-12-2024,0,0,0.5,0,0,0.5,weakly_positive
 14-12-2024,37,1950,0.59055,16,56,0.60125,weakly_positive
 14-12-2024,46,1081,0.56544,23,29,0.52709,weakly_positive
 13-12-2024,27,756,0.55151,20,62,0.54235,strongly_positive
@@ -1960,7 +1975,6 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 13-12-2024,479,34730,0.5357,240,90,0.50693,strongly_positive
 13-12-2024,443,43765,0.49716,235,131,0.51599,strongly_positive
 13-12-2024,409,65310,0.55746,143,137,0.54327,strongly_positive
-13-12-2024,0,0,0.5,0,0,0.5,strongly_positive
 13-12-2024,185,23854,0.65821,73,124,0.56712,strongly_positive
 13-12-2024,89,4322,0.53895,37,49,0.54951,strongly_positive
 13-12-2024,32,296,0.50721,19,14,0.52589,strongly_positive
@@ -2004,6 +2018,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 11-12-2024,266,38030,0.5091,96,126,0.51773,strongly_positive
 11-12-2024,320,62367,0.56811,146,218,0.55047,strongly_positive
 11-12-2024,349,58609,0.63295,183,220,0.54051,strongly_positive
+11-12-2024,0,0,0.5,0,0,0.5,strongly_positive
 11-12-2024,210,30166,0.53126,117,202,0.53992,strongly_positive
 11-12-2024,237,19183,0.52968,201,255,0.54868,strongly_positive
 11-12-2024,698,169223,0.54436,203,176,0.53377,strongly_positive
@@ -2021,8 +2036,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 10-12-2024,60,2768,0.55281,22,41,0.50059,strongly_positive
 10-12-2024,52,2070,0.50339,20,37,0.52035,strongly_positive
 10-12-2024,95,8272,0.55971,41,92,0.54378,strongly_positive
-10-12-2024,79,0,0.49408,49,0,0.5,strongly_positive
-10-12-2024,0,0,0.5,0,0,0.5,strongly_positive
+10-12-2024,79,4789,0.5403,49,99,0.54678,strongly_positive
 10-12-2024,79,2985,0.52048,52,68,0.52704,strongly_positive
 10-12-2024,67,2458,0.53202,53,93,0.55136,strongly_positive
 10-12-2024,271,50312,0.50825,83,141,0.51398,strongly_positive
@@ -2065,7 +2079,8 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 09-12-2024,14,101,0.62376,12,26,0.54758,strongly_positive
 09-12-2024,7,14,0.55635,7,12,0.57071,strongly_positive
 09-12-2024,22,818,0.61472,8,33,0.638,strongly_positive
-09-12-2024,31,1098,0.58353,12,33,0.51142,strongly_positive
+09-12-2024,0,0,0.5,0,0,0.5,strongly_positive
+09-12-2024,31,1098,0.5705,12,33,0.5,strongly_positive
 09-12-2024,64,2893,0.52226,28,48,0.53518,strongly_positive
 08-12-2024,50,1455,0.67121,31,48,0.546,strongly_positive
 08-12-2024,32,1019,0.5493,21,58,0.54671,strongly_positive
@@ -2082,8 +2097,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 08-12-2024,23,352,0.58027,16,29,0.57344,strongly_positive
 08-12-2024,18,210,0.52695,13,25,0.54215,strongly_positive
 08-12-2024,48,3994,0.74208,15,64,0.59393,strongly_positive
-08-12-2024,40,2300,0.48173,14,49,0.5,strongly_positive
-08-12-2024,0,0,0.5,0,0,0.5,strongly_positive
+08-12-2024,40,2300,0.48627,14,49,0.50471,strongly_positive
 08-12-2024,16,164,0.54408,7,11,0.556,strongly_positive
 08-12-2024,4,6,0.54408,2,2,0.5115,strongly_positive
 08-12-2024,11,99,0.50165,6,12,0.52067,strongly_positive
@@ -2127,6 +2141,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 06-12-2024,230,13955,0.58046,134,91,0.52219,strongly_positive
 06-12-2024,194,13978,0.50228,133,138,0.50976,strongly_positive
 06-12-2024,168,3008,0.5003,164,164,0.51889,strongly_positive
+06-12-2024,0,0,0.5,0,0,0.5,strongly_positive
 06-12-2024,768,169085,0.53189,241,171,0.53658,strongly_positive
 06-12-2024,638,111918,0.5849,224,151,0.53495,strongly_positive
 06-12-2024,308,26440,0.51117,214,168,0.52379,strongly_positive
@@ -2144,8 +2159,7 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 05-12-2024,40,1232,0.57128,19,36,0.57242,strongly_positive
 05-12-2024,38,1043,0.58805,21,38,0.53095,strongly_positive
 05-12-2024,20,359,0.5795,17,54,0.55618,strongly_positive
-05-12-2024,0,0,0.5,0,0,0.5,strongly_positive
-05-12-2024,16,0,0.5158,14,0,0.53479,strongly_positive
+05-12-2024,16,177,0.5158,14,45,0.53479,strongly_positive
 05-12-2024,73,5972,0.56426,26,71,0.57531,strongly_positive
 05-12-2024,97,5879,0.58221,36,55,0.55811,strongly_positive
 05-12-2024,159,21837,0.61156,67,141,0.51387,strongly_positive
@@ -2170,20 +2184,3 @@ published_date,twitter_posts,twitter_likes,twitter_sentiment,stock_twitter_posts
 04-12-2024,49,1800,0.56062,25,47,0.57112,strongly_positive
 04-12-2024,60,4181,0.51991,36,108,0.53769,strongly_positive
 04-12-2024,55,1559,0.52641,51,142,0.54545,strongly_positive
-04-12-2024,126,16022,0.627,36,91,0.56844,strongly_positive
-04-12-2024,105,8849,0.5528,40,78,0.53225,strongly_positive
-04-12-2024,254,53634,0.52759,101,205,0.54677,strongly_positive
-04-12-2024,404,80556,0.53848,183,221,0.54524,strongly_positive
-04-12-2024,250,29860,0.53752,164,212,0.5561,strongly_positive
-04-12-2024,213,16118,0.65478,149,150,0.55283,strongly_positive
-04-12-2024,281,16073,0.53127,235,173,0.54918,strongly_positive
-04-12-2024,510,122738,0.54892,162,189,0.56775,strongly_positive
-04-12-2024,292,35191,0.54899,104,105,0.5346,strongly_positive
-04-12-2024,361,63411,0.64304,145,172,0.55337,strongly_positive
-04-12-2024,132,12108,0.52814,68,118,0.534,strongly_positive
-04-12-2024,48,2370,0.52471,29,77,0.54397,strongly_positive
-04-12-2024,39,1485,0.61921,25,65,0.53196,strongly_positive
-04-12-2024,87,13113,0.60061,25,108,0.55364,strongly_positive
-04-12-2024,56,2419,0.57303,18,34,0.5745,strongly_positive
-04-12-2024,10,114,0.4985,6,18,0.475,strongly_positive
-04-12-2024,14,216,0.60967,10,32,0.5078,strongly_positive
