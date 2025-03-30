@@ -10,6 +10,13 @@ stocks = [
     {"symbol": "MSFT", "ipo_date": "1986-03-13"},
     {"symbol": "META", "ipo_date": "2012-05-18"},
     {"symbol": "NVDA", "ipo_date": "1999-01-22"}
+
+    # {"symbol": "AMZN", "ipo_date": "2025-03-05"},
+    # {"symbol": "AAPL", "ipo_date": "2025-03-05"},
+    # {"symbol": "GOOG", "ipo_date": "2025-03-05"},
+    # {"symbol": "MSFT", "ipo_date": "2025-03-05"},
+    # {"symbol": "META", "ipo_date": "2025-03-05"},
+    # {"symbol": "NVDA", "ipo_date": "2025-03-05"}
 ]
 
 
@@ -21,14 +28,14 @@ token = "974d47176476fe62f2640d26bae719cec1e134e6"
 for stock in stocks:
     # Construct the URL for each stock's historical data
     url = f"https://api.tiingo.com/tiingo/daily/{stock['symbol']}/prices?startDate={stock['ipo_date']}&token={token}"
+    
+    # url = f"https://api.tiingo.com/tiingo/daily/{stock['symbol']}/prices?startDate={stock['ipo_date']}&endDate='2025-03-25'&token={token}"
     response = requests.get(url, headers={'Content-Type': 'application/json'})
 
     if response.status_code == 200:
         data = response.json()
-        csv_file = f"Stock_Price_Data/{stock['symbol']}_stock_prices.csv"
+        csv_file = f"march_prices/{stock['symbol']}_march_prices.csv"
         formatted_data = []
-        # .rename(columns={'weighted_daily_sentiment' : 'stock_news_sentiment',
-        #                                                'published_date' : 'date'}, inplace=True)
 
         if data:
             with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
