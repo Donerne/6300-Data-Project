@@ -1,7 +1,11 @@
+# change base path to match your pc path
+
+# importing necessary dependencies
 import pandas as pd
 
 companies = ['AAPL', 'GOOG', 'AMZN', 'MSFT', 'META', 'NVDA']
 
+# change base path to match your pc path
 base_path = '/Users/sarithakumarik/Documents/DATA6300/Data/'
 
 def merge_company_data(symbol):

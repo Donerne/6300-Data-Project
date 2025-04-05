@@ -11,6 +11,7 @@ stocks = [
     {"symbol": "META", "ipo_date": "2012-05-18"},
     {"symbol": "NVDA", "ipo_date": "1999-01-22"}
 
+    # We also pulled the data for month of March 2025 which we forecasted to compare, evaluate and perform correlations
     # {"symbol": "AMZN", "ipo_date": "2025-03-05"},
     # {"symbol": "AAPL", "ipo_date": "2025-03-05"},
     # {"symbol": "GOOG", "ipo_date": "2025-03-05"},
@@ -34,7 +35,8 @@ for stock in stocks:
 
     if response.status_code == 200:
         data = response.json()
-        csv_file = f"march_prices/{stock['symbol']}_march_prices.csv"
+        # csv_file = f"march_prices/{stock['symbol']}_march_prices.csv"
+        csv_file = f"Stock_Price_Data/{stock['symbol']}_stock_prices.csv"
         formatted_data = []
 
         if data:

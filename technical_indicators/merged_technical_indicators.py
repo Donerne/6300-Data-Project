@@ -1,3 +1,6 @@
+# change base_path below to match your pc path
+
+# import necessary dependencies
 import pandas as pd
 import os
 
@@ -14,6 +17,7 @@ indicators = [
     ('WMA', 'wma')
 ]
 
+# change base_path to match your pc path
 base_path = '/Users/sarithakumarik/Documents/DATA6300/Data/technical_indicators/'
 
 def merge_company_data(symbol):
@@ -48,6 +52,7 @@ def merge_company_data(symbol):
         print(f'Merged data for {symbol} saved to {output_file}')
     else:
         print(f"No data to merge for {symbol}.")
+
 
 for company in companies:
     merge_company_data(company)

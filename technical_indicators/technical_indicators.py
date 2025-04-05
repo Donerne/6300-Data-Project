@@ -3,8 +3,20 @@ import pandas as pd
 import os
 from datetime import datetime, timedelta
 import time
+from dotenv import load_dotenv
 
-api_key = "DfrdNtpDtF8RSp1gnBd0auOJ0562NslK"
+
+# loading in api file
+load_dotenv(r"api.env")
+
+# Obtaining key for API file
+fmp_api_key = os.getenv("fmp_api_key")
+if not fmp_api_key:
+    raise ValueError("No API key set for fmp_api_key in .env file")
+
+print("API key loaded successfully from .env file.")
+
+api_key = fmp_api_key
 
 stocks = [
     {"symbol": "AMZN", "ipo_date": "1997-05-15"},
